@@ -9,7 +9,7 @@ picsInSecond = 60 # Images
 ```
 
 ```python
-videoLength  = 20 # Seconds
+videoLength = 20 # Seconds
 ```
 ###### Note that those two are multiplied toghether
 
@@ -18,7 +18,7 @@ videoLength  = 20 # Seconds
 Framerate is used to set the rate of frames per second for OpenCV
 
 ```python
-frameRate    = 60 # Speed to display images
+frameRate = 60 # Speed to display images
 ```
 
 ---
